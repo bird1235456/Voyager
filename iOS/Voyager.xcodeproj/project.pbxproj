@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					0F2C74681DF08776003F6BB8 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = GJ5G43NA6K;
 						ProvisioningStyle = Automatic;
 					};
 					0F2C747C1DF08778003F6BB8 = {
@@ -410,7 +411,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
+				DEVELOPMENT_TEAM = GJ5G43NA6K;
 				INFOPLIST_FILE = Voyager/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.birdash.Voyager;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,7 +426,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
+				DEVELOPMENT_TEAM = GJ5G43NA6K;
 				INFOPLIST_FILE = Voyager/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.birdash.Voyager;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -503,6 +510,7 @@
 				0F2C74931DF08779003F6BB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F2C74941DF08779003F6BB8 /* Build configuration list for PBXNativeTarget "VoyagerTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +519,7 @@
 				0F2C74961DF08779003F6BB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F2C74971DF08779003F6BB8 /* Build configuration list for PBXNativeTarget "VoyagerUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +528,7 @@
 				0F2C74991DF08779003F6BB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
